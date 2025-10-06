@@ -18,7 +18,7 @@
     <i>with <code>Bluetooth</code> CLI.</i>
 </p>
 
-## 📘 Overview
+## Overview
 
 This project implements an **oven control system** using an **Arduino Uno** and **LM335 temperature sensor**, featuring a **Bluetooth (BT) command-line interface (CLI)** for real-time control via smartphone and a **Raspberry Pi Pico integration** for performing remote arithmetic calculations.
 
